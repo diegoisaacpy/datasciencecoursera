@@ -1,0 +1,10 @@
+---
+title: "markdown-test"
+author: "diego isaac"
+date: "2024-07-26"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+## This is a markdown file
